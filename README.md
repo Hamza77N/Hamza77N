@@ -1,5 +1,5 @@
 <h3 align="left"> Hi there 👋 ,I’m Hamza a FrontEnd Developer,
-Soon to graduate as Full-Stack Web Development course at DCI. 🔭✨
+Soon to graduate as Full-Stack Web Development course at DCI. ✨
  </h3>
 
 - 🔭 I’m currently working as a Tutor FrontEnd Developer at Digital Career Institute Berlin 🧑🏻‍💻
