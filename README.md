@@ -1,4 +1,4 @@
-<h3 align="left"> Hi there 👋 ,I’m Hamza a FrontEnd Developer
+<h3 align="left"> Hi there 👋 ,I’m Hamza a FrontEnd Developer,
 Soon to graduate as Full-Stack Web Development course at DCI. 🔭✨
  </h3>
 
