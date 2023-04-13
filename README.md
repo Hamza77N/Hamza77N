@@ -3,7 +3,7 @@ Soon to graduate as Full-Stack Web Development course at DCI. ✨
  </h3>
 
 - 🔭 I’m currently working as a Tutor FrontEnd Developer at Digital Career Institute Berlin .
-- 🌱 I’m currently learning BackEnd
+- 🌱 I’m currently learning BackEnd and TypeScript
 - 📫 How to reach me: https://www.linkedin.com/in/hamza-nachawati-4b807924a/
 
 <br>
