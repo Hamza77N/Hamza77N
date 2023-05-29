@@ -24,4 +24,4 @@ Soon to graduate as Full-Stack Web Development course at DCI. ✨
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HamzaN77&label=Profile%20views&color=orange=plastic" alt="HamzaN77" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HamzaN77&label=PROFILE+VIEWS&color=e75b6&style0=flat&style=flat-square" alt="HamzaN77" /> </p>
