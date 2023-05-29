@@ -23,5 +23,4 @@ Soon to graduate as Full-Stack Web Development course at DCI. ✨
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HamzaN77&label=PROFILE+VIEWS&color=e75b6&style0=flat" alt="HamzaN77" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HamzaN77&label=Profile%20views&color=e75b6&style0=flat" alt="HamzaN77" /> </p>
