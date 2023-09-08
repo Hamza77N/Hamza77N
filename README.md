@@ -25,4 +25,4 @@ Soon to graduate as Full-Stack Web Development course at DCI. ✨
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HamzaN77&label=Profile%20views&style=plastic" alt="HamzaN77" /> </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=dark&hide_border=true)](https://git.io/streak-stats)
