@@ -1,9 +1,6 @@
-<h3 align="left"> Hi there 👋 ,I’m Hamza a FrontEnd Developer 🧑🏻‍💻,
-Soon to graduate as Full-Stack Web Development course at DCI. ✨
+<h3 align="left"> Hi there 👋 ,I’m Hamza a Full-Stack Web Development ✨
  </h3>
 
-- 🔭 I’m currently working as a Tutor FrontEnd Developer at Digital Career Institute Berlin .
-- 🌱 I’m currently learning BackEnd and TypeScript
 - 📫 How to reach me: https://www.linkedin.com/in/hamza-nachawati-4b807924a/
 
 <br>
@@ -25,4 +22,4 @@ Soon to graduate as Full-Stack Web Development course at DCI. ✨
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HamzaN77&label=Profile%20views&style=plastic" alt="HamzaN77" /> </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Hamza77N&theme=dark&hide_border=true)](https://git.io/streak-stats)
