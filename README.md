@@ -24,3 +24,5 @@ Soon to graduate as Full-Stack Web Development course at DCI. ✨
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HamzaN77&label=Profile%20views&style=plastic" alt="HamzaN77" /> </p>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
