@@ -1,4 +1,4 @@
-<h3 align="left"> Hi there 👋 ,I’m Hamza a Full-Stack Web Develepor ✨
+<h3 align="left"> Hi there 👋 ,I’m Hamza a Full-Stack Web Developer ✨
  </h3>
 
 - 📫 How to reach me: https://www.linkedin.com/in/hamza-nachawati-4b807924a/
